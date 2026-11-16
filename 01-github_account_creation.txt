@@ -1,0 +1,42 @@
+Company
+=======
+You will work on prject
+Every Project you have a manager
+Every Project has team member
+10 members consist of a team
+Project has to deliver to the client
+Client will give pay check to Company and Company will pay you
+Project has to keep Confidential
+Every project need to change based on new data, new requirement
+
+GITHUB
+======
+If manager and team keep everyday work in that GITHUB
+    every can see the work on daily basis
+    deployment from GITHUB
+    cicd pipeline from gitaction
+
+    out of india - GITHUB
+
+you will commit all the code from day 1 in the repository
+
+1- Google
+2- Type GITHUB.com
+3- Right Click -> Open in new tab
+4- SignIn with your gmail.com
+5- Do your verification by mobile & gmail
+6- After verification you can see the dashboard
+7- Click on repository
+8- New repository --> fill the name of repository - Create Repository
+9- Add file -> New File
+10- When you drag and drop to git you can able to see the folder
+11- Upload the file only files not folder
+12- Commit Changes
+13- Repository is created like this
+   https://github.com/developertext153-sudo/DS_GAI
+  
+   
+
+Note: Resume Project keep in Private Mode
+Note : Other Project keep in Public Mode
+Note : When Sharing the github link in resume keep it public 
