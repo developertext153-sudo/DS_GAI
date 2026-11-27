@@ -34,8 +34,9 @@ you will commit all the code from day 1 in the repository
 12- Commit Changes
 13- Repository is created like this
    https://github.com/developertext153-sudo/DS_GAI
-  
-   
+14- How to delete the repository
+15- successfully
+
 
 Note: Resume Project keep in Private Mode
 Note : Other Project keep in Public Mode
